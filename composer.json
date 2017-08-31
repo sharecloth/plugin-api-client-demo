@@ -1,0 +1,26 @@
+{
+  "name": "sharecloth/plugin-api-client-demo",
+  "description": "Sharecloth Client API Demo",
+  "keywords": [
+    "sharecloth"
+  ],
+  "homepage": "http://sharecloth.com/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/sharecloth/plugin-api-client.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/sharecloth/ShareCloth-API"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "sharecloth/plugin-api-client": "dev-master",
+    "sharecloth/api": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.6"
+  }
+}

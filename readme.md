@@ -3,6 +3,24 @@
 
 Clone this repo and run `composer install`.
 
+# API's
+
+## Sharecloth API
+
+- used for ShareCloth Editor
+- used for get cloth list for external resources
+
+** only payment accounts **
+
+
+## Plugun (Core) API
+
+- used for generate and store avatars 
+- used as data provider for web plugin( avatars, textures, curves, meshes)
+- used for common tasks, as sheduled product calculation, logging and etc...
+
+
+
 # How to use
 
 

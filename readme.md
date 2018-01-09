@@ -13,7 +13,7 @@ Clone this repo and run `composer install`.
 ** only payment accounts **
 
 
-## Plugun (Core) API
+## Plugin (Core) API
 
 - used for generate and store avatars 
 - used as data provider for web plugin( avatars, textures, curves, meshes)
